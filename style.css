@@ -1,0 +1,7 @@
+#left,
+#right {
+    width: auto;
+    height: 1000px;
+    margin-right: 10px;
+    float: left;
+}
