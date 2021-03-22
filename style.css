@@ -3,5 +3,8 @@
     display: inline-block;
     height: 1000px;
     margin-right: 10px;
-    float: left;
+}
+
+.div {
+    display: inline-block;
 }
